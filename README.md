@@ -1,5 +1,5 @@
 # fibocalc-docker-app
-This application is over complex fibonacci calculator that utilizes docker-compose multiple container launching.
+This application is over complex fibonacci calculator React app. That utilizes docker-compose multi service launching.
 
 ## Tecs used
 * Docker
