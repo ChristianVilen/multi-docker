@@ -8,6 +8,7 @@ This application is over complex fibonacci calculator React app. That utilizes d
 * Redis
 * Postgre
 * Nginx
+* TravisCI
 
 ## Usage
 docker-compose up
